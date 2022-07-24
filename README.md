@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackfreeman88
 - 👀 I’m interested in the intersection between computer science and biology!
-- 🌱 I’m currently learning different python libraries (PyTorch and PySpark)
+- 🌱 I’m currently learning different python libraries and frameworks! (Primarily PyTorch and PySpark)
 - 💞️ I’m looking to collaborate on analysis and visualization of multi-omic data!
 - 📫 How to reach me jackwfreeman@yahoo.com
 
